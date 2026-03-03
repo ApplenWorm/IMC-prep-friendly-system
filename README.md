@@ -1,0 +1,1 @@
+This repository will collect resources for preparing for the International Mathematics Competition (IMC) at the university level — including notes, problem sets, guides, and other helpful materials. More information and content will be added over time.
