@@ -16,18 +16,22 @@ Real Analysis
 - [x] 14. Problems in Mathematical Analysis (Volumes 1, 2, and 3) — W.J. Kaczor and M.T. Nowak
 - [x] 15. A Problem Book in Real Analysis — Asuman G. Aksoy and Mohamed A. Khamsi
 - [x] 16. Counterexamples in Analysis — Gelbaum & Olmsted
-- [ ] 17. Solving Problems in Mathematical Analysis (3 vols) — Tomasz Radożycki
-- [ ] 18. 100+1 Problems in Advanced Calculus — Paolo Leonardi & Gianluca Giacomin
-- [ ] 19. Sharpening Mathematical Analysis Skills — Alin Galatan & Ioan Rasa
-- [ ] 20. The Cauchy-Schwarz Master Class — J. Michael Steele
+- [3Donex] 17. Solving Problems in Mathematical Analysis (3 vols) — Tomasz Radożycki
+- [x] 18. 100+1 Problems in Advanced Calculus — Paolo Leonardi & Gianluca Giacomin
+- [x] 19. Sharpening Mathematical Analysis Skills — Alin Galatan & Ioan Rasa
+- [x] 20. The Cauchy-Schwarz Master Class — J. Michael Steele
 Abstract Algebra
-- [ ] 21. Abstract Algebra (3rd ed.) — Dummit & Foote
-- [ ] 22. Topics in Algebra (2nd ed.) — I.N. Herstein
-- [ ] 23. Algebra — Michael Artin
-- [ ] 24. Problems in Higher Algebra — D.K. Faddeev and I.S. Sominsky
+- [x] 21. Abstract Algebra (3rd ed.) — Dummit & Foote
+- [x] 22. Topics in Algebra (2nd ed.) — I.N. Herstein
+- [x] 23. Algebra — Michael Artin
+- [x] 24. Problems in Higher Algebra — D.K. Faddeev and I.S. Sominsky
 - [ ] 25. Algebra: A Chapter of the Book — Titu Andreescu and Gabriel Dospinescu
-- [ ] 26. A First Course in Abstract Algebra — John B. Fraleigh
-- [ ] 27. Problems in Group Theory — John D. Dixon
+  - A problem-solving focused algebra chapter, closer to olympiad-style manipulation and ingenuity than to a full abstract algebra course.
+  - Best used as a supplement for sharpening algebraic techniques, especially with equations, identities, and clever transformations.
+- [ x] 26. A First Course in Abstract Algebra — John B. Fraleigh
+  - A standard beginner-friendly abstract algebra text covering groups, rings, fields, homomorphisms, quotient structures, and related basics.
+  - Gentler and more exercise-driven than Artin or Dummit-Foote, so it works well if you want a first pass before harder texts.
+- [ x] 27. Problems in Group Theory — John D. Dixon
 Complex Analysis
 - [ ] 28. Complex Analysis — Elias M. Stein and Rami Shakarchi
 - [ ] 29. Complex Analysis — Lars Ahlfors
