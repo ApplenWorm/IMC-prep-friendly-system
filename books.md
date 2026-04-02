@@ -50,8 +50,8 @@ Combinatorics & Discrete Mathematics
 - [x ] 41. Problem-Solving Methods in Combinatorics: An Approach to Olympiad Problems — Pablo Soberon
 - [ x] 42. Graph Theory: In Mathematical Olympiad and Competitions — Xiong Bin, Zheng Zhongyi
 - [x ] 43. Problems in Combinatorics and Graph Theory — Ioan Tomescu
-- [ ] 44. Graph Theory — Reinhard Diestel
-- [ ] 45. Enumerative Combinatorics Vol. 1 & 2 — Richard Stanley
+- [x] 44. Graph Theory — Reinhard Diestel
+- [1-done ] 45. Enumerative Combinatorics Vol. 1 & 2 — Richard Stanley
 - [ ] 46. Olympiad Combinatorics — Pranav Sriram
 Geometry
 - [ ] 47. Geometry Unbound — Kiran S. Kedlaya
