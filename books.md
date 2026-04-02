@@ -33,13 +33,13 @@ Abstract Algebra
   - Gentler and more exercise-driven than Artin or Dummit-Foote, so it works well if you want a first pass before harder texts.
 - [ x] 27. Problems in Group Theory — John D. Dixon
 Complex Analysis
-- [ ] 28. Complex Analysis — Elias M. Stein and Rami Shakarchi
-- [ ] 29. Complex Analysis — Lars Ahlfors
-- [ ] 30. Complex Analysis (3rd ed.) — Joseph Bak & Donald Newman
-- [ ] 31. Visual Complex Analysis — Tristan Needham
-- [ ] 32. Complex Numbers from A to Z — Titu Andreescu & Dorin Andrica
-- [ ] 33. Problems and Solutions for Complex Analysis — Rami Shakarchi
-- [ ] 34. A Collection of Problems on Complex Analysis — L.I. Volkovyskii et al.
+- [1,2,3 - done-x] 28. Complex Analysis — Elias M. Stein and Rami Shakarchi
+- [x] 29. Complex Analysis — Lars Ahlfors
+- [x] 30. Complex Analysis (3rd ed.) — Joseph Bak & Donald Newman
+- [x] 31. Visual Complex Analysis — Tristan Needham
+- [x] 32. Complex Numbers from A to Z — Titu Andreescu & Dorin Andrica
+- [x] 33. Problems and Solutions for Complex Analysis — Rami Shakarchi
+- [x] 34. A Collection of Problems on Complex Analysis — L.I. Volkovyskii et al.
 Combinatorics & Discrete Mathematics
 - [ ] 35. A Walk Through Combinatorics (4th ed.) — Miklós Bóna
 - [ ] 36. Combinatorics: Topics, Techniques, Algorithms — Peter Cameron
