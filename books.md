@@ -41,15 +41,15 @@ Complex Analysis
 - [x] 33. Problems and Solutions for Complex Analysis — Rami Shakarchi
 - [x] 34. A Collection of Problems on Complex Analysis — L.I. Volkovyskii et al.
 Combinatorics & Discrete Mathematics
-- [ ] 35. A Walk Through Combinatorics (4th ed.) — Miklós Bóna
-- [ ] 36. Combinatorics: Topics, Techniques, Algorithms — Peter Cameron
-- [ ] 37. A Path to Combinatorics for Undergraduates: Counting Strategies — Titu Andreescu and Zuming Feng
-- [ ] 38. Generatingfunctionology (3rd ed.) — Herbert Wilf
-- [ ] 39. The Probabilistic Method (4th ed.) — Alon & Spencer
-- [ ] 40. 102 Combinatorial Problems from the Training of the USA IMO Team — Titu Andreescu & Zuming Feng
-- [ ] 41. Problem-Solving Methods in Combinatorics: An Approach to Olympiad Problems — Pablo Soberon
-- [ ] 42. Graph Theory: In Mathematical Olympiad and Competitions — Xiong Bin, Zheng Zhongyi
-- [ ] 43. Problems in Combinatorics and Graph Theory — Ioan Tomescu
+- [x ] 35. A Walk Through Combinatorics (4th ed.) — Miklós Bóna
+- [x] 36. Combinatorics: Topics, Techniques, Algorithms — Peter Cameron
+- [x ] 37. A Path to Combinatorics for Undergraduates: Counting Strategies — Titu Andreescu and Zuming Feng
+- [x] 38. Generatingfunctionology (3rd ed.) — Herbert Wilf
+- [x ] 39. The Probabilistic Method (4th ed.) — Alon & Spencer
+- [x] 40. 102 Combinatorial Problems from the Training of the USA IMO Team — Titu Andreescu & Zuming Feng
+- [x ] 41. Problem-Solving Methods in Combinatorics: An Approach to Olympiad Problems — Pablo Soberon
+- [ x] 42. Graph Theory: In Mathematical Olympiad and Competitions — Xiong Bin, Zheng Zhongyi
+- [x ] 43. Problems in Combinatorics and Graph Theory — Ioan Tomescu
 - [ ] 44. Graph Theory — Reinhard Diestel
 - [ ] 45. Enumerative Combinatorics Vol. 1 & 2 — Richard Stanley
 - [ ] 46. Olympiad Combinatorics — Pranav Sriram
