@@ -323,3 +323,5 @@ From your own “Priority Book List” summary:
 
 These, plus the books above, form your **complete IMC preparation resource library**.
 
+This link for putnam archive:
+https://kskedlaya.org/putnam-archive/

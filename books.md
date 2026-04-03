@@ -47,56 +47,56 @@ Combinatorics & Discrete Mathematics
 - [x] 38. Generatingfunctionology (3rd ed.) — Herbert Wilf
 - [x ] 39. The Probabilistic Method (4th ed.) — Alon & Spencer
 - [x] 40. 102 Combinatorial Problems from the Training of the USA IMO Team — Titu Andreescu & Zuming Feng
-- [x ] 41. Problem-Solving Methods in Combinatorics: An Approach to Olympiad Problems — Pablo Soberon
-- [ x] 42. Graph Theory: In Mathematical Olympiad and Competitions — Xiong Bin, Zheng Zhongyi
-- [x ] 43. Problems in Combinatorics and Graph Theory — Ioan Tomescu
+- [x] 41. Problem-Solving Methods in Combinatorics: An Approach to Olympiad Problems — Pablo Soberon
+- [x] 42. Graph Theory: In Mathematical Olympiad and Competitions — Xiong Bin, Zheng Zhongyi
+- [x] 43. Problems in Combinatorics and Graph Theory — Ioan Tomescu
 - [x] 44. Graph Theory — Reinhard Diestel
 - [1-done ] 45. Enumerative Combinatorics Vol. 1 & 2 — Richard Stanley
-- [ ] 46. Olympiad Combinatorics — Pranav Sriram
+- [x] 46. Olympiad Combinatorics — Pranav Sriram
 Geometry
-- [ ] 47. Geometry Unbound — Kiran S. Kedlaya
-- [ ] 48. Euclidean Geometry in Mathematical Olympiads — Evan Chen
-- [ ] 49. Challenging Problems in Geometry — Alfred Posamentier
-- [ ] 50. Geometry Revisited — Coxeter & Greitzer
-- [ ] 51. Geometric Transformations — Ioan Gelca & Andrei Negut
-- [ ] 52. Geometry of Complex Numbers — Hans Schwerdtfeger
+- [ x] 47. Geometry Unbound — Kiran S. Kedlaya
+- [x ] 48. Euclidean Geometry in Mathematical Olympiads — Evan Chen
+- [ x] 49. Challenging Problems in Geometry — Alfred Posamentier
+- [ x] 50. Geometry Revisited — Coxeter & Greitzer
+- [ x] 51. Geometric Transformations — Ioan Gelca & Andrei Negut
+- [ x] 52. Geometry of Complex Numbers — Hans Schwerdtfeger
 General Problem-Solving & Competition Books
-- [ ] 53. Putnam and Beyond (2nd ed.) — Razvan Gelca & Titu Andreescu
-- [ ] 54. Berkeley Problems in Mathematics (3rd ed.) — Paulo Ney de Souza & Jorge-Nuno Silva
-- [ ] 55. Problem-Solving Through Problems — Loren C. Larson
-- [ ] 56. Problem-Solving Strategies — Arthur Engel
-- [ ] 57. The Art and Craft of Problem Solving (3rd ed.) — Paul Zeitz
-- [ ] 58. Problems from the Book (2nd ed.) — Titu Andreescu & Gabriel Dospinescu
-- [ ] 59. The Art of Mathematics: Coffee Time in Memphis — Béla Bollobás
-- [ ] 60. The Math Problems Notebook — Valentin Boju, Louis Funar
-- [ ] 61. Problems and Theorems in Analysis I and II — George Pólya and Gábor Szegő
-- [ ] 62. (Almost) Impossible Integrals, Sums, and Series — Cornel Ioan Vălean
-- [ ] 63. How to Solve It — George Pólya
-- [ ] 64. Challenging Mathematical Problems with Elementary Solutions (2 vols) — A.M. Yaglom & I.M. Yaglom
-- [ ] 65. Proofs from THE BOOK (6th ed.) — Martin Aigner & Günter Ziegler
-- [ ] 66. Winning Solutions — E. Lozansky & C. Rousseau
-- [ ] 67. A Problem Seminar — Donald J. Newman
-- [ ] 68. Problems and Solutions in Mathematics — Ta-Tsien Li et al.
-- [ ] 69. Problems and Theorems in Classical Set Theory — Peter Komjáth & Vilmos Totik
-- [ ] 70. Functional Equations and How to Solve Them — Christopher Small
+- [ x] 53. Putnam and Beyond (2nd ed.) — Razvan Gelca & Titu Andreescu
+- [ x] 54. Berkeley Problems in Mathematics (3rd ed.) — Paulo Ney de Souza & Jorge-Nuno Silva
+- [ x] 55. Problem-Solving Through Problems — Loren C. Larson
+- [ x] 56. Problem-Solving Strategies — Arthur Engel
+- [x ] 57. The Art and Craft of Problem Solving (3rd ed.) — Paul Zeitz
+- [ x] 58. Problems from the Book (2nd ed.) — Titu Andreescu & Gabriel Dospinescu
+- [ x] 59. The Art of Mathematics: Coffee Time in Memphis — Béla Bollobás
+- [ x] 60. The Math Problems Notebook — Valentin Boju, Louis Funar
+- [x ] 61. Problems and Theorems in Analysis I and II — George Pólya and Gábor Szegő
+- [ x] 62. (Almost) Impossible Integrals, Sums, and Series — Cornel Ioan Vălean
+- [ x] 63. How to Solve It — George Pólya
+- [ 1-2 done x] 64. Challenging Mathematical Problems with Elementary Solutions (2 vols) — A.M. Yaglom & I.M. Yaglom
+- [x] 65. Proofs from THE BOOK (6th ed.) — Martin Aigner & Günter Ziegler
+- [x ] 66. Winning Solutions — E. Lozansky & C. Rousseau
+- [ x] 67. A Problem Seminar — Donald J. Newman
+- [1st and 2nsd editions are done ] 68. Problems and Solutions in Mathematics — Ta-Tsien Li et al.
+- [x ] 69. Problems and Theorems in Classical Set Theory — Peter Komjáth & Vilmos Totik
+- [ x] 70. Functional Equations and How to Solve Them — Christopher Small
 Putnam Collections
-- [ ] 71. The William Lowell Putnam Mathematical Competition 1985–2000: Problems, Solutions, and Commentary — Kedlaya, Poonen & Vakil
-- [ ] 72. The William Lowell Putnam Mathematical Competition 2001–2016: Problems, Solutions, and Commentary — Kedlaya, Kane, Kane & O'Dorney
-- [ ] 73. The William Lowell Putnam Mathematical Competition: Problems and Solutions 1965–1984 — Alexanderson, Klosinski & Larson
+- [ x] 71. The William Lowell Putnam Mathematical Competition 1985–2000: Problems, Solutions, and Commentary — Kedlaya, Poonen & Vakil
+- [ x] 72. The William Lowell Putnam Mathematical Competition 2001–2016: Problems, Solutions, and Commentary — Kedlaya, Kane, Kane & O'Dorney
+- [ x] 73. The William Lowell Putnam Mathematical Competition: Problems and Solutions 1965–1984 — Alexanderson, Klosinski & Larson
 Topic-Specific Competition Books
-- [ ] 74. Polynomials — Victor Prasolov
-- [ ] 75. Polynomials — Edward J. Barbeau
-- [ ] 76. 101 Problems in Algebra — Titu Andreescu & Zuming Feng
-- [ ] 77. Intermediate Algebra — Richard Rusczyk & Mathew Crawford
-- [ ] 78. 104 Number Theory Problems — Titu Andreescu et al.
-- [ ] 79. 103 Trigonometry Problems — Titu Andreescu et al.
-- [ ] 80. Unsolved Problems in Number Theory — Richard K. Guy
-- [ ] 81. Selection Tests in Algebra for Mathematical Olympiads — Titu Andreescu
-- [ ] 82. Selection Tests in Number Theory for Mathematical Olympiads — Titu Andreescu
+- [x ] 74. Polynomials — Victor Prasolov
+- [ x] 75. Polynomials — Edward J. Barbeau
+- [ x] 76. 101 Problems in Algebra — Titu Andreescu & Zuming Feng
+- [ x] 77. Intermediate Algebra — Richard Rusczyk & Mathew Crawford
+- [x ] 78. 104 Number Theory Problems — Titu Andreescu et al.
+- [ x] 79. 103 Trigonometry Problems — Titu Andreescu et al.
+- [x ] 80. Unsolved Problems in Number Theory — Richard K. Guy
+- [ x] 81. Selection Tests in Algebra for Mathematical Olympiads — Titu Andreescu
+- [x ] 82. Selection Tests in Number Theory for Mathematical Olympiads — Titu Andreescu
 Elite Archives & Other
-- [ ] 83. Contests in Higher Mathematics: Miklós Schweitzer Competitions 1962–1991 — Gábor J. Székely (ed.)
-- [ ] 84. A Collection of Math Competition Problems — Slobodan Filipovski
-- [ ] 85. Advanced Problems in Mathematics (STEP) — Stephen Siklos
-- [ ] 86. An Infinitely Large Napkin — Evan Chen
-- [ ] 87. Lecture Notes on Mathematical Olympiad Courses (2 vols) — Xu Jiagu
+- [x] 83. Contests in Higher Mathematics: Miklós Schweitzer Competitions 1962–1991 — Gábor J. Székely (ed.)
+- [ x] 84. A Collection of Math Competition Problems — Slobodan Filipovski
+- [ x] 85. Advanced Problems in Mathematics (STEP) — Stephen Siklos
+- [ x] 86. An Infinitely Large Napkin — Evan Chen
+- [ x] 87. Lecture Notes on Mathematical Olympiad Courses (2 vols) — Xu Jiagu
 Total: 87 books
